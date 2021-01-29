@@ -1,7 +1,3 @@
 <<<<<<< HEAD
 cccc
-bbbb
-=======
->>>>>>> parent of 5846f14... bb
-aaaa
-bbbbbb
+for second commit
