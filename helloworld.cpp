@@ -10,4 +10,5 @@ int main()
     cout <<"how old are you";
     cin>> age;
     cout <<"you are "<<age<<endl;
+    cout<<"hello world"<<endl;
 }
